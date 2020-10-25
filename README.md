@@ -1,6 +1,6 @@
 # 商务管家技术概览
 
-## 管家商务是啥
+## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
